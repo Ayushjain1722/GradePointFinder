@@ -22,3 +22,5 @@ data['marks'] = marks
 finalDataset = pd.DataFrame.from_dict(data)
 finalDataset.to_csv('scores.csv')
 ```
+
+![image](https://user-images.githubusercontent.com/42894689/133393181-d7a2935f-1cd3-4995-b539-cd8e42279804.png)
