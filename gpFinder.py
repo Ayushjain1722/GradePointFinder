@@ -1,6 +1,4 @@
 import pandas as pd
-import random
-
 
 def assignGrade(marksOfStudent, dataset, index):
   # A Grade
