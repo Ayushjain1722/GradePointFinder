@@ -9,12 +9,13 @@ https://gp-finder.herokuapp.com/
 ## Novelty
 
 1. Designed the complete frontend and backend.
-2. Merging multiple files into a single csv file, removing duplicate entries and invalid entries.
-3. Sending email to multiple accounts with the result file attached. 
-4. Able to attach multiple files at once.
-5. Only certain extensions allowed so that no invalid file has to be processed.
-6. Live project that can be accessed from anywhere. 
-7. Implementation novelty: a) Different files for each feature (modular approach). 
+2. Creted dummy dataset for testing purpose.
+3. Merging multiple files into a single csv file, removing duplicate entries and invalid entries.
+4. Sending email to multiple accounts with the result file attached. 
+5. Able to attach multiple files at once.
+6. Only certain extensions allowed so that no invalid file has to be processed.
+7. Live project that can be accessed from anywhere. 
+8. Implementation novelty: a) Different files for each feature (modular approach). 
                            b) Making standard template for HTML files to remove redundancy in code.
 
 ## Technologies Used
@@ -56,6 +57,9 @@ https://gp-finder.herokuapp.com/
 
 ## Input example:
 
+![image](https://user-images.githubusercontent.com/42894689/133873866-991ccd4e-15b2-4def-a470-a0bc1c6b5823.png)
+
+![image](https://user-images.githubusercontent.com/42894689/133873892-91684f35-768f-43d8-8708-dbd9d6a57489.png)![image](https://user-images.githubusercontent.com/42894689/133873951-7cc75ca7-7e55-4848-95a9-47e0ed80bdbd.png)
 
 
 ## Output example:
