@@ -9,7 +9,7 @@ https://gp-finder.herokuapp.com/
 ## Novelty
 
 1. Designed the complete frontend and backend.
-2. Creted dummy dataset for testing purpose.
+2. Created dummy dataset for testing purpose.
 3. Merging multiple files into a single csv file, removing duplicate entries and invalid entries.
 4. Sending email to multiple accounts with the result file attached. 
 5. Able to attach multiple files at once.
@@ -54,6 +54,8 @@ https://gp-finder.herokuapp.com/
 
 
 ## GIF showing process for one example:
+
+![GP-Finder-Google-Chrome-2021-09](https://user-images.githubusercontent.com/42894689/133877523-f04ef32d-aa69-447d-b071-8f11b96956be.gif)
 
 ## Input example:
 
