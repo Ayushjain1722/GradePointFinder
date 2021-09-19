@@ -42,6 +42,10 @@ https://gp-finder.herokuapp.com/
 3. The gpFinder.py script is run which calculates the grade and the grade point assigned to each student.
 4. Final result.csv is made and user is asked to enter his/her email-id(s), providing which he/she will receive the file.
 
+## FlowChart Methodology
+
+![image](https://user-images.githubusercontent.com/42894689/133927874-325233e7-5954-4c67-aa4c-ac148425976f.png)
+
 ## UI Screenshots
 
 ![image](https://user-images.githubusercontent.com/42894689/133873132-5037c83b-fcf3-41e4-970e-f2ac81b04e24.png)
